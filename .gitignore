@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+backup/
+legacy/
+TCC2.ipynb
